@@ -1,3 +1,4 @@
 venv/
 regressor-tunner/
+classifier-tunner/
 __pycache__
